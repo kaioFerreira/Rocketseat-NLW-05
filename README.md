@@ -21,3 +21,5 @@ Foi um final de semana INCRIVEL!!!
 A RockeTseat sempre entregando muito conhecimento de forma pratica e aplicavel, sou feliz por fazer parte dessa comunidade.
 
 Abaixo o link para acesso e alguns prints do resultado:
+
+url(https://user-images.githubusercontent.com/38704936/116290127-859d1100-a769-11eb-8e77-2b0efb69ed1a.png)
